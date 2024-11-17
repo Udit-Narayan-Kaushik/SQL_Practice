@@ -1,3 +1,3 @@
 # SQL_Practice
 
-This repository contsins solutions to SQL practice problem from Hacker rank.
+This repository contsins solutions to SQL practice problems.
